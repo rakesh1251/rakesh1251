@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rakesh (@rakesh1251)
 - 👀 Passionate about: Data Science, AI, and Analytics
-- 🌱 Currently Learning: SQL, Power BI, Python, and Machine Learning
 - 💡 Looking to Collaborate On: Data Science & AI projects
 - 📫 How to Reach Me:
    - 📌 LinkedIn: [ranjan rakesh](https://www.linkedin.com/in/rakesh-ranjan-83a56a166/)
