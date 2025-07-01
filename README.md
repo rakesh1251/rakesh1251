@@ -2,7 +2,7 @@
 - 👀 Passionate about: Data Science, AI, and Analytics
 - 💡 Looking to Collaborate On: Data Science & AI projects
 - 📫 How to Reach Me:
-   - 📌 LinkedIn: [ranjan rakesh](https://www.linkedin.com/in/rakesh-ranjan-83a56a166/)
+   - 📌 LinkedIn: [ranjan rakesh](https://www.linkedin.com/in/rakesh-mallik/)
    - 📧 Email: ranjan.rakesh51@gmail.com
 - ⚡ Fun Fact: I love discovering patterns in data & automating workflows!
 
